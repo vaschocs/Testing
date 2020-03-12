@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1</description>
+   <name>Tes Case Description 65536 karakter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96a16bdf-046c-4987-a714-2d76c8a950dc</testCaseGuid>
+</TestCaseEntity>

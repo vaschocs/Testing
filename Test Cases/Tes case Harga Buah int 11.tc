@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>mencoba nama buah dengan int 11</description>
+   <name>Tes case Harga Buah int 11</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a869b263-bdf9-43cc-87d5-40aba53e4fb1</testCaseGuid>
+</TestCaseEntity>
