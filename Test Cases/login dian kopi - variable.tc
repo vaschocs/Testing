@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login dian kopi - variable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>860215e8-9b9c-47b3-be6e-2289f7103dc1</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ba1ed2ab-d3a0-4a58-9a6c-c20bfa865430</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>87943b2a-cf60-42cf-9f74-76814a7ef5b3</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
